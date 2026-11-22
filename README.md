@@ -1,6 +1,7 @@
 # ecommers-mini-project
- a simple full-stack mini E-commers website build using HTML, CSS, JavaScript, PHP and MySQL. Ideal for beginner web developer to understand CRUD, cart handling and database integration 
- a simple full-stack mini E-commers website build using HTML, CSS, JavaScript, PHP and MySQL. Ideal for beginner web developer to understand CRUD, cart handling and database integration 
+
+a simple full-stack mini E-commers website build using HTML, CSS, JavaScript, PHP and MySQL. Ideal for beginner web developer to understand CRUD, cart handling and database integration.
+
 # 🛒 Mini E-Commerce Website (PHP + MySQL)
 
 This is a small, beginner-friendly e-commerce project built using:
@@ -10,44 +11,66 @@ This is a small, beginner-friendly e-commerce project built using:
 - MySQL (Database)
 
 ---
-![Project Preview](Images/image_ac3c6b.png)
+
+## 📸 Project Screenshots
+
+### Screenshot 1
+
+![Project Screenshot 1](Images/Screenshot%202026-01-12%20122828.png)
+
+### Screenshot 2
+
+![Project Screenshot 2](Images/Screenshot%202026-01-12%20122846.png)
+
+### Screenshot 3
+
+![Project Screenshot 3](Images/Screenshot%202026-01-12%20122918.png)
+
+### Screenshot 4
+
+![Project Screenshot 4](Images/Screenshot%202026-01-12%20122933.png)
+
+---
 
 ## ✨ वैशिष्ट्ये (Features)
+
 * **Modern UI:** डार्क मोड आणि काचेसारखा (Glassmorphism) इफेक्ट असलेले प्रीमियम डिझाइन.
-* **Animated Cart Popups:** प्रॉडक्ट ॲड करताना किंवा काढताना येणारे सुंदर आणि कलरफुल पॉप-अ��[...]
+* **Animated Cart Popups:** प्रॉडक्ट ॲड करताना किंवा काढताना येणारे सुंदर आणि कलरफुल पॉपअप.
 * **Secure Authentication:** युजर लॉगिन आणि लॉगआउट सिस्टीम.
 * **Docker Integration:** Docker आणि Docker Compose द्वारे एका क्लिकवर प्रोजेक्ट रन करण्याची सुविधा.
 * **Responsive Design:** मोबाईल, टॅब्लेट आणि डेस्कटॉपवर व्यवस्थित चालणारे डिझाइन.
 
 ---
+
 ## 📌 Features
+
 - Display products
 - Add to Cart (with session handling)
 - View Cart & Remove Items
 - Checkout page with order saving
 - MySQL database integration
 
--
 ---
 
 ## 🧮 Database Setup
 
 1. Open *phpMyAdmin*.
-2. Import the file ecommerce_db_setup.sql.
-3. This will create the database ecommerce_db and add sample products.
+2. Import the file `ecommerce_db_setup.sql`.
+3. This will create the database `ecommerce_db` and add sample products.
 
 ---
 
 ## 🛠 How to Run Locally (XAMPP)
 
-1. Move this folder to htdocs/
-2. Start *Apache* and *MySQL* in XAMPP
-3. Visit: http://localhost/ecommerce-mini/index.php
+1. Move this folder to `htdocs/`.
+2. Start *Apache* and *MySQL* in XAMPP.
+3. Visit: `http://localhost/ecommerce-mini/index.php`
 4. You're ready to go!
 
 ---
 
 ## 📚 Learnings
+
 - Basic full-stack flow
 - Sessions and cart logic
 - CRUD with PHP & MySQL
@@ -56,4 +79,5 @@ This is a small, beginner-friendly e-commerce project built using:
 ---
 
 ## 🏷 Tags
-#php #mysql #ecommerce #webdevelopment #html #css #javascript #beginnersproject
+
+`php` `mysql` `ecommerce` `webdevelopment` `html` `css` `javascript` `beginnersproject`
